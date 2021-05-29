@@ -15,13 +15,13 @@
 
 > Our saliency maps.
 
-【**1**】[Saliency Maps]() by our DCF trained on NJUD & NLPR (2185). 
+【**1**】[Saliency Maps](https://pan.baidu.com/s/1cliPYQubTPb4W48kl4qliA), (fetch code is **j93d**), by our DCF trained on NJUD & NLPR (2185). 
 
-【**2**】[Saliency Maps]() by our DCF trained on NJUD & NLPR & DUT (2985).
+【**2**】[Saliency Maps](https://pan.baidu.com/s/1plEYHtgmkToz8HO2XP03gA), (fetch code is **aeq0**), by our DCF trained on NJUD & NLPR & DUT (2985).
 
 > Our pre-trained model for inferring your own dataset.
 
-【**1**】Download the [pre-trained model](), which is trained on NJUD & NLPR & DUT. 
+【**1**】Download the [pre-trained model](https://pan.baidu.com/s/1gWHgW1H9YiNc7hcL4jwdrQ), (fetch code is **ceqa**), which is trained on NJUD & NLPR & DUT. 
 
 【**2**】Set the data path and ckpt_name in ```demo_test.py```, correctly.
 
