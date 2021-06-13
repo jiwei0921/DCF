@@ -51,7 +51,17 @@ We thank all reviewers for their valuable suggestions. At the same time, thanks 
 
 Our feature extraction network is based on [CPD backbone](https://github.com/wuzhe71/CPD).
 
-
+### Bibtex
+```
+@InProceedings{Ji_2021_DCF,
+    author    = {Ji, Wei and Li, Jingjing and Yu, Shuang and Zhang, Miao and Piao, Yongri and Yao, Shunyu and Bi, Qi and Ma, Kai and Zheng, Yefeng and Lu, Huchuan and Cheng, Li},
+    title     = {Calibrated RGB-D Salient Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {9471-9481}
+}
+```
 
 #### Contact Us
 If you have any questions, please contact us ( wji3@ualberta.ca ).
