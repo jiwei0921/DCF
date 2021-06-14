@@ -1,14 +1,17 @@
-# DCF Code
+# DCF
 
 Code repository for our paper entilted ["Calibrated RGB-D Salient Object Detection"](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf) accepted at CVPR 2021.
+
+# Depth Calibration
+![avatar](https://github.com/jiwei0921/DCF/blob/main/calibration.png) 
+
+## DCF Code
 
 ### > Requirment
 + pytorch 1.0.0+
 + torchvision
 + PIL
 + numpy
-
-
 
 ### > Usage
 
