@@ -39,14 +39,10 @@ Code repository for our paper entilted ["Calibrated RGB-D Salient Object Detecti
 【**2**】Stage 2: Run ```python demo_train.py```, which performs the **F**usion Strategy.
 
 
+### Evaluation Setup
 
-### For Reference
-
-All common RGB-D Saliency Datasets we collected are shared in ready-to-use manner.       
-+ The web link is [here](https://github.com/jiwei0921/RGBD-SOD-datasets).
-
-All results in our paper are measured by the ready-to-use evaluation toolbox.
-+ The web link is [here](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
++ The related all test datasets in this paper can be found in [this link (fetch code is **b2p2**)](https://pan.baidu.com/s/1sx1En1ecNyDf12jNGFeYZQ).
++ [This evaluation tool](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox) is used to evaluate the above saliency maps in this paper.
 
 
 ### Acknowledgement
