@@ -23,9 +23,11 @@ Code repository for our paper entilted ["Calibrated RGB-D Salient Object Detecti
 
 【**2**】[Saliency Maps](https://pan.baidu.com/s/1plEYHtgmkToz8HO2XP03gA), (fetch code is **aeq0**), by our DCF trained on NJUD & NLPR & DUT (2985).
 
++ Notice that, we preliminarily unified depth, which means that the closer region is closer to 1, and the farther region is closer to 0. The testset results of the new dataset **ReDWeb-S** can be downloaded in [here]() (fetch code is **aeq0**). 
+
 > Our pre-trained model for inferring your own dataset.
 
-【**1**】Download the [pre-trained model](https://pan.baidu.com/s/1gWHgW1H9YiNc7hcL4jwdrQ), (fetch code is **ceqa**), which is trained on NJUD & NLPR & DUT. 
+【**1**】Download the [pre-trained model](https://pan.baidu.com/s/1JiMcwkezm6jldQfPCDSLUg), (fetch code is **2t7g**), which is trained on NJUD & NLPR & DUT. 
 
 【**2**】Set the data path and ckpt_name in ```demo_test.py```, correctly.
 
