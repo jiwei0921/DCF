@@ -27,7 +27,7 @@ Code repository for our paper entilted ["Calibrated RGB-D Salient Object Detecti
 
 > Our pre-trained model for inferring your own dataset.
 
-【**1**】Download the [pre-trained model](https://pan.baidu.com/s/1JiMcwkezm6jldQfPCDSLUg), (fetch code is **2t7g**), which is trained on NJUD & NLPR & DUT. 
+【**1**】Download the [pre-trained model](https://pan.baidu.com/s/1JiMcwkezm6jldQfPCDSLUg), (fetch code is **2t7g**), which is trained on NJUD & NLPR & DUT. Or the [another model](https://pan.baidu.com/s/1X4mWuJ8SlOKRP210C1RwoA), (fetch code is **epp9**), which is trained on NJUD & NLPR.
 
 【**2**】Set the data path and ckpt_name in ```demo_test.py```, correctly.
 
