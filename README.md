@@ -1,4 +1,4 @@
-## DCF (& DCBF)
+## DCF
 
 Code repository for our paper entilted ["Calibrated RGB-D Salient Object Detection"](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf) accepted at CVPR 2021.
 
@@ -44,7 +44,6 @@ Code repository for our paper entilted ["Calibrated RGB-D Salient Object Detecti
 + The training set used in this paper can be accessed in [(NJUD+NLPR), code is **76gu**](https://pan.baidu.com/s/1sNxe3Szu7O_Qci1OGmKIKQ) and [(NJUD+NLPR+DUT), code is **201p**](https://pan.baidu.com/s/19aiosd_73VGMg7PB7HJzww).
 
 
-### DCBF is an extension of our DCF. Its code can be approached in [BaiduYun](https://pan.baidu.com/s/1tZt132ggznxeDzJEfrEEUg) (code is 'p5b5').
 
 ### Acknowledgement
 
